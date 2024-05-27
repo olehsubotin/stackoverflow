@@ -5,5 +5,5 @@ export default function Home() {
       <h2 className="h2-bold">Home</h2>
       <h3 className="h3-bold">Home</h3>
     </div>
-  )
+  );
 }
